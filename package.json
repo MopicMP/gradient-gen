@@ -1,0 +1,26 @@
+{
+  "name": "gradient-gen",
+  "version": "1.0.0",
+  "description": "CSS gradient generator and collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "css",
+    "gen",
+    "gradient",
+    "js",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raccoonette/gradient-gen.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
